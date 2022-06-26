@@ -11,3 +11,6 @@ wait：一轮爬取中，每个目标数据的爬取间隔。若目标较少，�
 可以将“文档”二字更改为你想要的文件夹名，该文件夹位于与主程序同级的目录上。<br>
 <br>
 其他内容不建议更改。
+
+https://github.com/arktos-venture/docker-tdengine
+https://github.com/dgiot/dgiot-dashboard/blob/master/.github/workflows/deploy.yml
